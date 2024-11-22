@@ -7,7 +7,7 @@ The core focus of the [Intelligent Systems Lab (ISL)](https://intelsyslab.com/) 
 The ISL comprises a core group of academic from the University of the West Indies, St. Augustine and industry experts. Partnerships with for-profit institutions are established through the signing of Memoranda of Understanding (MoUs). Currently, the ISL has academic partnerships with researchers from Rutgers University in New Jersey, USA, Tallinn University, Estonia, Brandenburg University of Technology, Germany and Kyungpook National University in Daegu, South Korea.
 
 ## Application Spaces
-Some of the work in the field of ISL is being applied to various areas, including policy and governance, robotics, SCADA systems, attack-resilient systems, digital twins, and AI-enabled software, such as vector databases, AI-enabled servers, and industrial operating systems (for more information, please refer to our GitHub repository)
+Some of the work in the field of ISL is being applied to various areas, including policy and governance, robotics, SCADA systems, attack-resilient systems, digital twins, and AI-enabled software, such as vector databases, AI-enabled servers, and industrial operating systems (for more information, please refer to our website: www.intelsyslab.com)
 
 ## Information Dissemination
 The ISL disseminates information through scientific publications, conferences, seminars and media.
