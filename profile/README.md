@@ -8,6 +8,7 @@ Generating novel knowledge and theories, and disseminating them to the scientifi
 2. Working with stakeholders to deploy prototypes in real-world scenarios, monitoring outcomes and collecting data
 3. Refining technologies and disseminating information to the wider public about their purpose, capabilities, and limitations while partnering with incubators for sector-specific applications
 4. Partnering with multilateral organizations and national policy bodies to provide technical expertise and generate evidence-based policies
+
 In the minor case, ISL partners with private institutions and organizations to service their AI, robotic, workshop and training needs. These initiatives are operated primarily with the Department of Electrical and Computer Engineering, the University of the West Indies, St Augustine. To track the development of our projects we adopt the Technology Readiness Level definitions and assumptions found [here](https://www.nasa.gov/directorates/somd/space-communications-navigation-program/technology-readiness-levels/). Some of our projects are distributed as open-source under the attribution-noncommercial-sharealike license unless or otherwise stated.
 
 ## Staff
